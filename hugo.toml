@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://MyWebsite.github.io/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "theme-academic-cv"
